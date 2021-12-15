@@ -1,0 +1,2 @@
+void drawScore();
+void initScore();
